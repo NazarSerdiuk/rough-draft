@@ -1,0 +1,231 @@
+body{
+    background-color:#ffff ;
+    padding: 40px,40px,40px,40px;
+    font-family: 'Montserrat', sans-serif;
+}
+/* ul,
+ol{
+    margin-top: 0px;
+    margin-bottom: 0px;
+} */
+.wrapper{
+    background-color:#ffff ;
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    margin: 0 auto;
+
+}
+.main-content{
+    padding-left: 88px;
+    padding-top: 80px;
+    padding-right: 40px;
+    padding-bottom: 80px;
+    box-sizing: border-box;
+}
+.sidebar{
+    background: #e0ebfe;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    box-sizing: border-box;
+    width: 370px;
+}
+.sidebar-content{
+    padding-left: 40px;
+    padding-top: 40px;
+    padding-right: 40px;
+    box-sizing: border-box;
+}
+.contacts{
+    color: #161D2A;
+    font-family: Montserrat;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 0px;
+    margin-bottom: 8px;
+}
+.contacts-type{
+    color: #161D2A;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+}
+.contacts-link{
+    color: #2979FF;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    text-decoration-line: underline;
+}
+.contacts-item{
+    margin-top: 0px;
+    margin-bottom: 8px;
+}
+.contacts-container{
+    margin-bottom: 40px;
+}
+.skills-container{
+    margin-bottom: 40px;
+}
+.skills-title{
+    color: #161D2A;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 0px;
+    margin-bottom: 8px;
+}
+.skills-list{
+    padding-left: 16px;
+}
+.skills-list-item{
+    color: #161D2A;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+.soft-container{
+    margin-bottom: 40px;
+}
+.soft-title{
+    color: #161D2A;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: normal;
+}
+.soft-list{
+    padding-left: 16px;
+}
+.soft-list-item{
+    color: #161D2A;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+.my-profession{
+    color: #000;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 17px;
+    margin-top: 0px;
+    margin-bottom: 8px;
+}
+.my-name{
+    color: #000;
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 55px;
+    margin-top: 0px;
+    margin-bottom: 12px;
+}
+.about-me{
+    color: #595959;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+.my-projects{
+    color: #000;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 27px;
+    margin-top: 0px;
+    margin-bottom: 8px;
+}
+.my-info{
+    margin-bottom: 40px;
+}
+.my-projects-list-item{
+    color: #000;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+}
+.my-projects-list{
+    padding-left: 16px;
+}
+.my-projects-list-item-link{
+    color: #005FFF;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    text-decoration-line: underline;
+}
+.my-projects-list-item-tech{
+    color: #595959;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+.my-projects-container{
+    margin-bottom: 40px;
+}
+.my-expirience{
+    color: #000;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 27px;
+    margin-top: 0px;
+    margin-bottom: 8px;
+}
+.my-expirience-world{
+    color: #000;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 20px;
+    margin-top: 0px;
+    margin-bottom: 12px;
+}
+.freelance-title{
+    color: #6D9BF5;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 20px;
+}
+.work-expirience-period{
+    color: #A8A8A8;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 15px;
+    margin-bottom: 8px;
+}
+.work-separator{
+    color: #000;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 15px;
+}
+.expirience-list{
+    color: #595959;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    padding-left: 16px;
+}
+.expirience-list-item{
+    color: #595959;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+.my-expirience-container{
+    margin-bottom: 12px;
+}
+
+.education-title{
+    color: #000;
+    font-size: 22px;
+    font-weight: 700;
+}
+.education-title-p{
+    color: #6D9BF5;
+    font-size: 16px;
+    font-weight: 700;
+}
+.management-title{
+    color: #000;
+    font-size: 14px;
+    font-weight: 700;
+}    
